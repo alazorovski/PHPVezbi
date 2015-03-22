@@ -1,2 +1,0 @@
-# PHPVezbi
-Vezbi PHP
